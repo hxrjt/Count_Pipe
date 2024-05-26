@@ -1,0 +1,6 @@
+path: D:\Hackathon\pythonProject
+train: segmentation_dataset\train\images
+val: segmentation_dataset\valid\images
+
+nc: 1
+names: ['pipe']
